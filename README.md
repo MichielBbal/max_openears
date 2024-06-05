@@ -12,8 +12,8 @@ Make sure you have the following:
 
 ### Software
 The file is in the following path:
-``/home/pi/ ``
+``/home/pi/openears/chapter_6_edgeai2``
 
 Run it with:
-``python .py``
+``python capture_pallas_2.py``
 
